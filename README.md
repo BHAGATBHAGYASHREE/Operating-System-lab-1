@@ -5,6 +5,9 @@ manipulate files and directories effectively. Your goal is to create a series of
 demonstrate your understanding and proficiency in using the following commands:
 
 1. `ls`: List all files and directories in the current directory.
+
+![Uploading Screenshot 2024-05-04 at 4.14.29 PM.png…]()
+
 2. `cd`: Change the current directory to a specified path.
 3. `mkdir`: Create a new directory with a given name.
 4. `rmdir`: Remove an empty directory.
