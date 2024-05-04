@@ -5,8 +5,7 @@ manipulate files and directories effectively. Your goal is to create a series of
 demonstrate your understanding and proficiency in using the following commands:
 
 1. `ls`: List all files and directories in the current directory.
-
-![Uploading Screenshot 2024-05-04 at 4.14.29 PM.png…]()
+<img width="1470" alt="Screenshot 2024-05-04 at 4 14 29 PM" src="https://github.com/BHAGATBHAGYASHREE/Operating-System-lab-1/assets/142775493/25c5faf4-0275-412f-87a5-6ab7579fc703">
 
 2. `cd`: Change the current directory to a specified path.
 3. `mkdir`: Create a new directory with a given name.
